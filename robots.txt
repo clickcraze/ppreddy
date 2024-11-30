@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /facilities/
+
+Allow: /services/
+Allow: /services/neuro-rehab
+Allow: /services/geriatric-rehab
+Allow: /services/ortho-rehab
+Allow: /services/cardiac-rehab
+Allow: /services/pulmonary-rehab
+Allow: /services/post-op-rehab
+Allow: /services/onco-rehab
+Allow: /services/assisted-living-facility-in-hyderabad
+Allow: /services/dementia-care-centre-in-hyderabad
+
+Allow: /studios/
+Allow: /studios/exercise-studio
+Allow: /studios/aqua-therapy
+Allow: /studios/speech-therapy
+Allow: /studios/occupational-therapy
+Allow: /studios/robotic-studio
+Allow: /studios/long-term-icu
+
+Allow: /blogs/
+Allow: /blogs/pp-reddy-rehab:-a-comprehensive-guide-to-addiction-treatment
+Allow: /blogs/the-power-of-community:-thriving-in-sobriety-with-pp-reddy-rehab
+Allow: /blogs/breaking-the-stigma:-mental-health-and-addiction-treatment-at-pp-reddy-rehab
+Allow: /blogs/discover-the-comfort-and-care-of-assisted-living-in-hyderabad
+Allow: /blogs/post-operative-rehabilitation-%7C-steps-to-rapid-recovery
+Allow: /blogs/dementia-care-services-in-hyderabad-%7C-know-dementia-care-homes
+Allow: /blogs/what-to-look-for-in-a-rehabilitation-care-center-in-hyderabad
+Allow: /blogs/lifelong-alzheimer%E2%80%99s-assistance-with-the-best-alzheimer%E2%80%99s-care-centre-in-hyderabad
+Allow: /blogs/creating-a-safe-home-environment-for-dementia-patients
+Allow: /blogs/choosing-the-best-rehabilitation-and-palliative-care-centre-for-your-loved-ones
+
+Sitemap: https://www.ppreddyrehabcare.com/sitemap.xml

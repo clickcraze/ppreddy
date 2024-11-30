@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Rajesh",
+        "image": "src/assets/images/clients/Rajesh.jpg",
+        "role": "Patient Son",
+        "rating": 5,
+        "testimonial": "PP Reddy Rehabilitation Centre offered remarkable care during my mother's recovery. Their team was attentive and professional, ensuring her swift and comfortable recovery."
+    },
+    {
+        "name": "Anjali Sharma",
+        "image": "src/assets/images/clients/Anjali.jpg",
+        "role": "Physiotherapist",
+        "rating": 5,
+        "testimonial": "As a physiotherapist, I trust PP Reddy Rehabilitation Centre for their outstanding rehabilitation services. Their tailored programs ensure patients achieve optimal recovery."
+    },
+    {
+        "name": "Karthik",
+        "image": "src/assets/images/clients/Karthik.jpg",
+        "role": "Patient Nephew",
+        "rating": 5,
+        "testimonial": "My uncle received top-notch care at PP Reddy Rehabilitation Centre. The compassionate staff and comprehensive therapy programs made a significant difference in his recovery."
+    },
+    {
+        "name": "Deepa",
+        "image": "src/assets/images/clients/Deepa.jpg",
+        "role": "Patient",
+        "rating": 5,
+        "testimonial": "The cardiac rehab program at PP Reddy Rehabilitation Centre is exceptional. The staff's expertise and encouragement helped me regain my strength and confidence."
+    },
+    {
+        "name": "Vijay Kumar",
+        "image": "src/assets/images/clients/Vijay.jpg",
+        "role": "Caregiver",
+        "rating": 5,
+        "testimonial": "PP Reddy Rehabilitation Centre's team provided my father with excellent care. Their patience and dedication greatly improved his quality of life during his recovery."
+    }
+]
