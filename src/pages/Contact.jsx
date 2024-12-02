@@ -76,17 +76,17 @@ const Contact = () => {
                 <h1 className='display-4 fw-bold text-first mb-5'>Get in touch with PP Reddy Rehab care</h1>
                 <ul className="nav flex-column">
                   <li className="nav-item">
-                    <a className="nav-link text-dark fs-4" href="tel:+919121333542"><i className="fa-solid fa-phone"></i>  +91 91213 33542</a>
+                    <p className="nav-link text-dark fs-5"><i className="fa-solid fa-phone"></i> +91 9160 191 794 &nbsp;&nbsp; <i className="fa-solid fa-phone"></i> +91 9160 191 796</p>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link text-dark fs-4" href="tel:+919676816044"><i className="fa-solid fa-phone"></i>  +91 96768 16044</a>
+                    <p className="nav-link text-dark fs-5"><i className="fa-solid fa-phone"></i> +91 9160 191 797 &nbsp;&nbsp; <i className="fa-solid fa-phone"></i> +91 91213 33542</p>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link text-dark fs-4" href="tel:+919121333523"><i className="fa-solid fa-phone"></i>  +91 91213 33523</a>
+                  <p className="nav-link text-dark fs-5"><i className="fa-solid fa-phone"></i> +91 96768 16044 &nbsp;&nbsp; <i className="fa-solid fa-phone"></i> +91 91213 33523</p>
                   </li>
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <a className="nav-link text-dark fs-4" href="tel:+919951333523"><i className="fa-solid fa-phone"></i>  +91 99513 33523</a>
-                  </li>
+                  </li> */}
                   <li className="nav-item">
                     <a className="nav-link text-dark fs-4" href="mailto: ppreddyrehab@gmail.com"><i className="fa-solid fa-envelope"></i> ppreddyrehab@gmail.com</a>
                   </li>
@@ -94,10 +94,7 @@ const Contact = () => {
                     <a className="nav-link text-dark fs-4" href="#"><i className="fa-solid fa-location-dot"></i> Plot No: 42, Opp Balapur Police Station, RCI Road, Mallapur, Balapur, near by International Airport, Hyderabad</a>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link text-dark fs-4" href="tel:+919959631603"><i className="fa-solid fa-phone"></i> <small>For Location Coordination :</small> +91 99596 31603</a>
-                  </li>
-                  <li className="nav-item">
-                    <a className="nav-link text-dark fs-4" href="tel:+918008022910"><i className="fa-solid fa-phone"></i> <small>For Location Coordination :</small> +91 80080 22910</a>
+                    <a className="nav-link text-dark fs-5" href="tel:+919959631603">For Location Coordination : <br></br><i className="fa-solid fa-phone"></i> +91 99596 31603, +91 80080 22910</a>
                   </li>
                 </ul>
               </div>

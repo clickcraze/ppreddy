@@ -160,10 +160,10 @@ const Footer = () => {
                 <p><i className="fa-solid fa-envelope"></i> ppreddyrehab@gmail.com</p>
               </a>
               <a className="text-decoration-none text-dark fs-5 fw-bold" href="tel:+919676816044">
-                <p className='mb-0'><i className="fa-solid fa-phone"></i> +91 96768 16044</p>
+                <p className='mb-0'><i className="fa-solid fa-phone"></i> +91 9160 191 794</p>
               </a>
               <a className="text-decoration-none text-dark fs-5 fw-bold" href="tel:+919121333523">
-                <p className='mb-0'><i className="fa-solid fa-phone"></i> +91 91213 33523</p>
+                <p className='mb-0'><i className="fa-solid fa-phone"></i> +91 9160 191 796</p>
               </a>
             </div>
             <div className="col-md-4 py-3 my-auto">
